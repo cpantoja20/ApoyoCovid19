@@ -1,0 +1,13 @@
+D:\Desktop\Parcial2\Logica\obj\Debug\netstandard2.1\Logica.csprojAssemblyReference.cache
+D:\Desktop\Parcial2\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfoInputs.cache
+D:\Desktop\Parcial2\Logica\obj\Debug\netstandard2.1\Logica.AssemblyInfo.cs
+D:\Desktop\Parcial2\Logica\bin\Debug\netstandard2.1\Logica.deps.json
+D:\Desktop\Parcial2\Logica\bin\Debug\netstandard2.1\Logica.dll
+D:\Desktop\Parcial2\Logica\bin\Debug\netstandard2.1\Logica.pdb
+D:\Desktop\Parcial2\Logica\bin\Debug\netstandard2.1\Datos.dll
+D:\Desktop\Parcial2\Logica\bin\Debug\netstandard2.1\Entity.dll
+D:\Desktop\Parcial2\Logica\bin\Debug\netstandard2.1\Datos.pdb
+D:\Desktop\Parcial2\Logica\bin\Debug\netstandard2.1\Entity.pdb
+D:\Desktop\Parcial2\Logica\obj\Debug\netstandard2.1\Logica.csproj.CopyComplete
+D:\Desktop\Parcial2\Logica\obj\Debug\netstandard2.1\Logica.dll
+D:\Desktop\Parcial2\Logica\obj\Debug\netstandard2.1\Logica.pdb
